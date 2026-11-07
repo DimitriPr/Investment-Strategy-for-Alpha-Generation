@@ -1,0 +1,11 @@
+IMPORTANT: DOWNLOAD THE LATEST RELEASE
+
+The project files (notebook, data, requirements) are not in this repository tree.
+They are shipped as a single zip in the Releases section.
+
+1. Click the "Releases" link in the right-hand column of the repo page.
+2. Download the .7z (or .zip) attached to the latest release.
+3. Extract it anywhere on your machine.
+4. Open the extracted folder in VS Code.
+5. Open the notebook and click "Run All".
+   The first cell auto-installs any missing Python dependencies.
