@@ -4,7 +4,8 @@ Replication code for the Applied Investments project. Monthly CRSP x Compustat p
 
 ## Setup
 
-1. Download the data bundle from the [latest Release](../../releases/latest) and unzip it **inside this folder** (next to the notebook). You should end up with:
+1. Go to the [Releases](../../releases) page and download the latest zip.
+2. Extract it anywhere on your machine. You should end up with a folder containing:
    ```
    code applied investments.ipynb
    requirements.txt
@@ -15,9 +16,9 @@ Replication code for the Applied Investments project. Monthly CRSP x Compustat p
    F-F_Momentum_Factor.csv
    crspgibbs.csv
    ```
-2. Open the folder in VS Code.
-3. Open the notebook, select a Python 3.11+ kernel.
-4. Run All. The first cell auto-installs any missing dependencies from `requirements.txt`.
+3. Open the folder in VS Code.
+4. Open the notebook, select a Python 3.11+ kernel.
+5. Run All. The first cell auto-installs any missing dependencies from `requirements.txt`.
 
 ## Data sources
 
